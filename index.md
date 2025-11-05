@@ -3,8 +3,10 @@ layout: home
 title: "José Raeiro — Wazuh Ambassador Blog"
 ---
 
-Welcome to my Wazuh Ambassador Blog.  
+Welcome to my Wazuh Ambassador Blog.
 
-Here I share insights, experiments, and deep-dives from the front lines of cybersecurity — from advanced detection engineering and SOC automations to active defense and threat hunting with **Wazuh**.
+This space is dedicated to sharing tutorials, integration guides, and real-world use cases that showcase the full potential of **Wazuh**.  
+From detection engineering and rule tuning to automation, threat hunting, and active defense, every post is built to help you strengthen and optimize your security operations.
 
-Stay tuned for technical breakdowns, hands-on lab notes, and reflections on the evolving art of security operations.
+Follow along for step-by-step examples, technical deep dives, and insights drawn from field experience with the Wazuh platform.
+
