@@ -3,3 +3,6 @@ description: "Tutorials about Wazuh"
 theme: minima        # built-in Pages theme
 plugins:
   - jekyll-feed
+author:
+  name: José Raeiro
+  url: https://wazuh.com/ambassadors/jose-raeiro/
