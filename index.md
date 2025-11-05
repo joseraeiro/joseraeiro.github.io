@@ -10,3 +10,4 @@ From detection engineering and rule tuning to automation, threat hunting, and ac
 
 Follow along for step-by-step examples, technical deep dives, and insights drawn from field experience with the Wazuh platform.
 
+🔗 [View my official Wazuh Ambassador profile](https://wazuh.com/ambassadors/jose-raeiro/)
