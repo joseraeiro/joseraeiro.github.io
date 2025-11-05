@@ -1,0 +1,5 @@
+title: "My Wazuh Ambassador Blog"
+description: "Tutorials about Wazuh"
+theme: minima        # built-in Pages theme
+plugins:
+  - jekyll-feed
