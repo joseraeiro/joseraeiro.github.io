@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bridging CrowdStrike to Wazuh/OpenSearch with Two Lean Daemons"
+title: "Check Point Harmony → Wazuh"
 date: 2025-11-05
 categories: [notes]
 tags: [intro]
