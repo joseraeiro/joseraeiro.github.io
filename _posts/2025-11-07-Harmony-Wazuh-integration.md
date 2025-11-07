@@ -1,11 +1,16 @@
 
 ---
-title: "Check Point Harmony → Wazuh (Preview)"
+layout: post
+title: "Check Point Harmony → Wazuh"
 date: 2025-11-07
 listed: false        # hides it from homepage loops
 sitemap: false       # optional: exclude from sitemap.xml
 robots: noindex      # optional: prevent Google from indexing
----
+categories: [notes]
+tags: [intro]
+
+
+
 
 
 
