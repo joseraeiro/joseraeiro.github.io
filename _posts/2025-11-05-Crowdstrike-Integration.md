@@ -10,7 +10,7 @@ tags: [intro]
 
 I wanted CrowdStrike detections and incidents to land in my Wazuh/OpenSearch stack with minimal friction, complete context, and predictable formats—so analysts can pivot, correlate, and alert inside the tools they already live in. The goals were reliability first, elegance second.
 
-> **Quick lookup:** All artifacts—the Python scripts, custom Wazuh detection rules, and the `systemd` unit files—are bundled in the **Appendix** at the end of this document.
+> **Quick lookup:** All artifacts: the Python scripts, custom Wazuh detection rules, and the `systemd` unit files, are bundled in the **Appendix** at the end of this document.
 
 ---
 
