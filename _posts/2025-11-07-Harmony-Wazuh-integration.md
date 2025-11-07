@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Check Point Harmony → Wazuh"
-date: 2025-11-05
+date: 2025-11-07
 categories: [notes]
 tags: [intro]
 ---
