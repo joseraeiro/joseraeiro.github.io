@@ -136,7 +136,7 @@ Instead of a shipper, I point the **Wazuh Manager** directly at both NDJSON file
 **Gotchas**
 
 * Ensure the Wazuh agent’s user can **read** the `.jsonl` files.
-* NDJSON is **append-only**—end each record with a newline.
+* NDJSON is **append-only**, end each record with a newline.
 * If you rotate files, **move** old files and write to a new one rather than truncating in place.
 
 ---
