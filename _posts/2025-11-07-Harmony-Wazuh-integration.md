@@ -1,3 +1,14 @@
+
+---
+title: "Check Point Harmony → Wazuh (Preview)"
+date: 2025-11-07
+listed: false        # hides it from homepage loops
+sitemap: false       # optional: exclude from sitemap.xml
+robots: noindex      # optional: prevent Google from indexing
+---
+
+
+
 # Check Point Harmony → Wazuh/OpenSearch with a Cron-Driven Collector
 
 *As told by someone who has almost certainly misplaced their towel.*
